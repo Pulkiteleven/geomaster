@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097355670357",
+    "firebase_url": "https://geomaster-22-default-rtdb.firebaseio.com",
+    "project_id": "geomaster-22",
+    "storage_bucket": "geomaster-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097355670357:android:67393830463f0a2688b5dc",
+        "android_client_info": {
+          "package_name": "com.geo.geomaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097355670357-grb5t2irf9bfqcj4pf3gj1914rkt65vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxw9HSxycfNIioPy7trKkHbv49HVJ7Tdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097355670357-grb5t2irf9bfqcj4pf3gj1914rkt65vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
